@@ -1,3 +1,7 @@
+"""
+Rudimentary manual PWM for a pin
+"""
+
 import signal
 import sys
 import time
